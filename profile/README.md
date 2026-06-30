@@ -4,5 +4,8 @@ Project Rakko is a project dedicated to making as many useful programs and libra
 ## Applications and Libraries
 All applications, libraries, and resources released by the team are put on [my website](https://download.fryelum.dev/Rakko/), as well as multiple other mirrors (check [MIRRORS.md](https://github.com/armdevvel/.github/blob/master/MIRRORS.md)). A list of working libraries is still being worked on, but for working libraries that are able to be compiled with our MXE environment, go check [this spreadsheet](https://docs.google.com/spreadsheets/d/1Z3FsGSXh3eOh3D9pcrw8rqQk3W11A8DudYqaO8XoQF0/edit?usp=sharing). It's constantly updated when we make edits to [MXE (shared)](https://github.com/armdevvel/mxe-SHARED)!
 
+## Generative AI Notice
+Code generated or code that has had assistance from Generative AI is strictly prohibited from this team. If a member is found to have been using AI, their code will be reverted and they will be removed from the team. We're a team of humans who write and understand our own code.
+
 ## Joining the Team
 Joining the team is easy! All you have to do is create an issue (or discussion) on a repo (MXE, preferably) or email me (lumier@fryelum.dev). 2FA is ***REQUIRED*** to join the team so we can keep the organization safe :).
